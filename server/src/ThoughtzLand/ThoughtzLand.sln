@@ -1,13 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.0.11222.15 d18.0
+VisualStudioVersion = 18.0.11222.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThoughtzLand.Domain", "ThoughtzLand.Domain\ThoughtzLand.Domain.csproj", "{7DBF7A5C-B4B9-48CC-B2E8-3BEA6D72A426}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThoughtzLand.Application", "ThoughtzLand.Application\ThoughtzLand.Application.csproj", "{42861366-32C6-44E1-81C2-A2D946FC0022}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThoughtzLand.Contracts", "ThoughtzLand.Contracts\ThoughtzLand.Contracts.csproj", "{49A71D30-95F5-4861-AB96-1DB28E5E7599}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThoughtzLand.WebApi", "ThoughtzLand.WebApi\ThoughtzLand.WebApi.csproj", "{DF2827B2-6FAE-4536-8159-0FB0CF554A80}"
 EndProject
@@ -27,10 +25,6 @@ Global
 		{42861366-32C6-44E1-81C2-A2D946FC0022}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42861366-32C6-44E1-81C2-A2D946FC0022}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42861366-32C6-44E1-81C2-A2D946FC0022}.Release|Any CPU.Build.0 = Release|Any CPU
-		{49A71D30-95F5-4861-AB96-1DB28E5E7599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{49A71D30-95F5-4861-AB96-1DB28E5E7599}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{49A71D30-95F5-4861-AB96-1DB28E5E7599}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{49A71D30-95F5-4861-AB96-1DB28E5E7599}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DF2827B2-6FAE-4536-8159-0FB0CF554A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DF2827B2-6FAE-4536-8159-0FB0CF554A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF2827B2-6FAE-4536-8159-0FB0CF554A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
